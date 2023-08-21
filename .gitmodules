@@ -1,0 +1,3 @@
+[submodule "Case08/raytracing-viz"]
+	path = Case08/raytracing-viz
+	url = https://taichiwat@bitbucket.org/takemuralab/raytracing-viz.git
